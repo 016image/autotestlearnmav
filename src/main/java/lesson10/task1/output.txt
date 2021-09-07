@@ -1,0 +1,9 @@
+{
+  "unknownValue": null,
+  "address": "г.Москва",
+  "clientId": 65737876,
+  "name": "Дипломатический центр",
+  "isFallback": true,
+  "value": 98.3,
+  "notifications": []
+}
