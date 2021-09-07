@@ -1,0 +1,7 @@
+address=г.Москва
+clientId=65737876
+value=98.3
+isFallback=true
+unknownValue=null
+name=Дипломатический центр
+notifications=
