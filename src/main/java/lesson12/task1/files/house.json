@@ -1,0 +1,40 @@
+{
+  "flats": [
+    {
+      "rooms": [
+        {
+          "width": 3,
+          "height": 4
+        },
+        {
+          "width": 4,
+          "height": 3
+        }
+      ]
+    },
+    {
+      "rooms": [
+        {
+          "width": 5,
+          "height": 6
+        }
+      ]
+    },
+    {
+      "rooms": [
+        {
+          "width": 2,
+          "height": 3
+        },
+        {
+          "width": 3,
+          "height": 4
+        },
+        {
+          "width": 4,
+          "height": 8
+        }
+      ]
+    }
+  ]
+}

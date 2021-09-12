@@ -1,0 +1,52 @@
+{
+  "id": 154,
+  "startDate": "2020-07-14",
+  "endDate": "2020-10-01",
+  "name": "automation_current",
+  "childIds": [
+    157,
+    192,
+    198
+  ],
+  "permissions": [
+    {
+      "id": 17,
+      "name": "Обновление данных"
+    },
+    {
+      "id": 18,
+      "name": "Создание данных"
+    },
+    {
+      "id": 19,
+      "name": "Удаление данных"
+    }
+  ],
+  "parentProject": {
+    "id": 19,
+    "startDate": "2020-05-14",
+    "endDate": "2021-10-01",
+    "name": "automation",
+    "childIds": [
+      154,
+      157,
+      192,
+      198
+    ],
+    "permissions": [
+      {
+        "id": 17,
+        "name": "Обновление данных"
+      },
+      {
+        "id": 18,
+        "name": "Создание данных"
+      },
+      {
+        "id": 19,
+        "name": "Удаление данных"
+      }
+    ],
+    "parentProject": null
+  }
+}
