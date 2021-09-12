@@ -20,7 +20,7 @@ public class Human {
     public Human getMather() {
         return mather;
     }
-
+@Override
     public String toString() {
         return name;
     }
